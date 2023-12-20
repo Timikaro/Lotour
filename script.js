@@ -19,6 +19,6 @@ function clickHandler(e) {
 //   alert("Page is loaded");
   
 // }
-$(document).ready(function(){
-  alert("halaman siap di tampilkan");
-})
+// $(document).ready(function(){
+//   alert("halaman siap di tampilkan");
+// })
